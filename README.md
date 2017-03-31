@@ -24,7 +24,7 @@ In RavenDB Bootcamp you will learn how to write applications using RavenDB. You 
     * [Lesson 1: Getting started with indexes](src/Unit-2/lesson1)
     * [Lesson 2: Creating an index and querying using it](src/Unit-2/lesson2)
     * [Lesson 3: Multi-map indexes](src/Unit-2/lesson3)
-    * [Lesson 4: Mapping(, filtering) and reducing](src/Unit-2/lesson4) 
+    * [Lesson 4: Mapping(, filtering) and reducing](src/Unit-2/lesson4)
     * [Lesson 5: The powerful LoadDocument server-side function](src/Unit-2/lesson5)
     * [Lesson 6: Getting started with Transformers](src/Unit-2/lesson6)
     * [Lesson 7: Statistics and some words about stale indexes!](src/Unit-2/lesson7)
